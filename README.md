@@ -41,4 +41,4 @@ Here you’ll find my projects, experiments, and explorations.
 
 ## 📫 Connect
 - 🌐 [OntoMesh.org](https://ontomesh.org/official-network.html)  
-- ✉️ Contact: *your-email-here@example.com*  
+- ✉️ Contact: *nettalk72#naver.com*  
