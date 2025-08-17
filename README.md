@@ -1,4 +1,4 @@
-# 🌐 Welcome to My World — nettalk72
+# 🌐 Welcome to OntoMotoOS World — nettalk72
 
 Hi there 👋  
 I’m exploring the intersection of **AI, Ontology, and Collective Intelligence**.  
