@@ -47,4 +47,4 @@ My work focuses on **experimental operating systems, mesh governance, and ethica
 
 ## 📫 Connect
 - 🌐 [Official Network](https://ontomesh.org/official-network.html)  
-- ✉️ Contact: *your-email@example.com*  
+- ✉️ Contact: *nettalk72^naver.com*  
