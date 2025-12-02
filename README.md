@@ -4,6 +4,8 @@ Hi there 👋
 I’m exploring the intersection of **AI, Ontology, and Collective Intelligence**.  
 My work focuses on **experimental operating systems, mesh governance, and ethical AI**.  
 
+[Architecture] https://ontomesh.org/OntoMesh-Architecture.html
+
 ---
 
 ## 🚀 Core Projects
